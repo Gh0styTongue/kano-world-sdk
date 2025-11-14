@@ -4,7 +4,7 @@ Saved using the Chrome extension [Save All Resources](https://chromewebstore.goo
 
 ### How is this possible?
 
-Because Kano Computing forgot to disable sourcemaps in production on the iHeart Site 🙃
+Because Kano Computing forgot to disable sourcemaps in one of their production sites 🙃
 
 I've archived them here on GitHub for educational purposes.
 
